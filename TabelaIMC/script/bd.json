@@ -1,0 +1,122 @@
+[
+    {
+        "Nome": "Ana Silva",
+        "Idade": 28,
+        "Altura (m)": 1.65,
+        "Peso (kg)": 62
+    },
+    {
+        "Nome": "Bruno Oliveira",
+        "Idade": 34,
+        "Altura (m)": 1.80,
+        "Peso (kg)": 88
+    },
+    {
+        "Nome": "Carla Souza",
+        "Idade": 42,
+        "Altura (m)": 1.58,
+        "Peso (kg)": 54
+    },
+    {
+        "Nome": "Diego Santos",
+        "Idade": 23,
+        "Altura (m)": 1.75,
+        "Peso (kg)": 70
+    },
+    {
+        "Nome": "Elena Costa",
+        "Idade": 55,
+        "Altura (m)": 1.62,
+        "Peso (kg)": 78
+    },
+    {
+        "Nome": "Felipe Rocha",
+        "Idade": 31,
+        "Altura (m)": 1.88,
+        "Peso (kg)": 95
+    },
+    {
+        "Nome": "Giovanna Lima",
+        "Idade": 27,
+        "Altura (m)": 1.70,
+        "Peso (kg)": 60
+    },
+    {
+        "Nome": "Hugo Mendes",
+        "Idade": 45,
+        "Altura (m)": 1.72,
+        "Peso (kg)": 82
+    },
+    {
+        "Nome": "Irene Alves",
+        "Idade": 38,
+        "Altura (m)": 1.60,
+        "Peso (kg)": 68
+    },
+    {
+        "Nome": "João Pessoa",
+        "Idade": 50,
+        "Altura (m)": 1.82,
+        "Peso (kg)": 90
+    },
+    {
+        "Nome": "Karen Martins",
+        "Idade": 21,
+        "Altura (m)": 1.67,
+        "Peso (kg)": 52
+    },
+    {
+        "Nome": "Leonardo Ferraz",
+        "Idade": 29,
+        "Altura (m)": 1.78,
+        "Peso (kg)": 105
+    },
+    {
+        "Nome": "Mariana Gomes",
+        "Idade": 33,
+        "Altura (m)": 1.55,
+        "Peso (kg)": 48
+    },
+    {
+        "Nome": "Nilson Vaz",
+        "Idade": 60,
+        "Altura (m)": 1.68,
+        "Peso (kg)": 74
+    },
+    {
+        "Nome": "Oliva Duarte",
+        "Idade": 25,
+        "Altura (m)": 1.73,
+        "Peso (kg)": 65
+    },
+    {
+        "Nome": "Paulo Ramos",
+        "Idade": 40,
+        "Altura (m)": 1.85,
+        "Peso (kg)": 1900
+    },
+    {
+        "Nome": "Quiteria Lins",
+        "Idade": 48,
+        "Altura (m)": 1.59,
+        "Peso (kg)": 63
+    },
+    {
+        "Nome": "Renato Jorge",
+        "Idade": 36,
+        "Altura (m)": 1.77,
+        "Peso (kg)": 79
+    },
+    {
+        "Nome": "Sabrina Antunes",
+        "Idade": 22,
+        "Altura (m)": 1.64,
+        "Peso (kg)": 57
+    },
+    {
+        "Nome": "Thiago Nunes",
+        "Idade": 29,
+        "Altura (m)": 1.81,
+        "Peso (kg)": 84
+    }
+]
