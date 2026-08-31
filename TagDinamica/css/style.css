@@ -2,27 +2,38 @@ div{
     display: flex;
     justify-content: center;
     padding: 20px;
-    gap: 20px;
     align-items: flex-start;
     margin: auto;
 }
 
 table{
-    background-color: #6b7bde;
+    background-color: #f4f5fa;
     border: 5px solid rgb(9, 9, 86);
     border-radius: 10px;
     width: 50%;
     padding: 10px;
-    color: rgb(39, 6, 66);
+    color: rgb(0, 0, 0);
+    margin-top: 25px;
 }
 
 .titulo{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family:  Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: bold;
-    color: rgba(12, 213, 231, 0.516);
+    color: rgba(252, 255, 255, 0.829);
+
 }
 
 
 body{
     background-color: rgb(49, 15, 83);
+}
+
+
+.butao{
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(255, 255, 255);
+    border: 7px solid rgb(9, 9, 86);
+    padding: 50px;
+    color: rgb(7, 7, 7);
 }
